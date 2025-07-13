@@ -28,7 +28,7 @@
 
 
 ## 📊 GitHub Stats
-![Alfian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfianfathur&show_icons=true&theme=radical)
+![Alfian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfianFR1&show_icons=true&theme=radical)
 
 ## 🧰 Tools & Services I Use
 ![Visual Studio Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
