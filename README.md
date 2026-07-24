@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Alfian!
+# 👋 Hi there, I'm Alfian Fathur Rohman!
 
 🚀 I'm a passionate **Mobile & Backend Developer** from Indonesia  
 💡 I love crafting apps with **Flutter**, **Node.js**, and **React**  
